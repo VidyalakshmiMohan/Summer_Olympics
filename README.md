@@ -1,4 +1,4 @@
-# Summer_Olympics
+# Summer Olympics Data Analysis
 
 This is an exploratory data analysis of Summer Olympics dataset that I, Vidyalakshmi.M ( https://www.linkedin.com/in/vidyalakshmi-m-2365a8184/ ) completed for my AI/ML Internship at ETG.
 
